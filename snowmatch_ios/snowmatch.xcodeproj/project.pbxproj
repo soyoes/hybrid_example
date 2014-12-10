@@ -14,13 +14,6 @@
 		D0FEAB881A36AB8F00F0B9C8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0FEAB871A36AB8F00F0B9C8 /* Images.xcassets */; };
 		D0FEAB8B1A36AB8F00F0B9C8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0FEAB891A36AB8F00F0B9C8 /* LaunchScreen.xib */; };
 		D0FEAB971A36AB8F00F0B9C8 /* snowmatchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0FEAB961A36AB8F00F0B9C8 /* snowmatchTests.m */; };
-		D0FEABAC1A36AC0500F0B9C8 /* objc_categories.m in Sources */ = {isa = PBXBuildFile; fileRef = D0FEABA31A36AC0500F0B9C8 /* objc_categories.m */; };
-		D0FEABAD1A36AC0500F0B9C8 /* objc_classes.mm in Sources */ = {isa = PBXBuildFile; fileRef = D0FEABA41A36AC0500F0B9C8 /* objc_classes.mm */; };
-		D0FEABAE1A36AC0500F0B9C8 /* objc_controller.mm in Sources */ = {isa = PBXBuildFile; fileRef = D0FEABA51A36AC0500F0B9C8 /* objc_controller.mm */; };
-		D0FEABAF1A36AC0500F0B9C8 /* objc_node.mm in Sources */ = {isa = PBXBuildFile; fileRef = D0FEABA71A36AC0500F0B9C8 /* objc_node.mm */; };
-		D0FEABB01A36AC0500F0B9C8 /* objc_wrappers.mm in Sources */ = {isa = PBXBuildFile; fileRef = D0FEABA81A36AC0500F0B9C8 /* objc_wrappers.mm */; };
-		D0FEABB11A36AC0500F0B9C8 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D0FEABA91A36AC0500F0B9C8 /* README.md */; };
-		D0FEABB21A36AC0500F0B9C8 /* style.mm in Sources */ = {isa = PBXBuildFile; fileRef = D0FEABAA1A36AC0500F0B9C8 /* style.mm */; };
 		D0FEABF81A36B51200F0B9C8 /* web in Resources */ = {isa = PBXBuildFile; fileRef = D0FEABB71A36ACD700F0B9C8 /* web */; };
 /* End PBXBuildFile section */
 
@@ -48,17 +41,6 @@
 		D0FEAB901A36AB8F00F0B9C8 /* snowmatchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = snowmatchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0FEAB951A36AB8F00F0B9C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0FEAB961A36AB8F00F0B9C8 /* snowmatchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = snowmatchTests.m; sourceTree = "<group>"; };
-		D0FEABA11A36AC0500F0B9C8 /* Liber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Liber.h; sourceTree = "<group>"; };
-		D0FEABA21A36AC0500F0B9C8 /* objc_categories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = objc_categories.h; sourceTree = "<group>"; };
-		D0FEABA31A36AC0500F0B9C8 /* objc_categories.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = objc_categories.m; sourceTree = "<group>"; };
-		D0FEABA41A36AC0500F0B9C8 /* objc_classes.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = objc_classes.mm; sourceTree = "<group>"; };
-		D0FEABA51A36AC0500F0B9C8 /* objc_controller.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = objc_controller.mm; sourceTree = "<group>"; };
-		D0FEABA61A36AC0500F0B9C8 /* objc_headers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = objc_headers.h; sourceTree = "<group>"; };
-		D0FEABA71A36AC0500F0B9C8 /* objc_node.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = objc_node.mm; sourceTree = "<group>"; };
-		D0FEABA81A36AC0500F0B9C8 /* objc_wrappers.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = objc_wrappers.mm; sourceTree = "<group>"; };
-		D0FEABA91A36AC0500F0B9C8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		D0FEABAA1A36AC0500F0B9C8 /* style.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = style.mm; sourceTree = "<group>"; };
-		D0FEABAB1A36AC0500F0B9C8 /* types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = types.h; sourceTree = "<group>"; };
 		D0FEABB71A36ACD700F0B9C8 /* web */ = {isa = PBXFileReference; lastKnownFileType = folder; path = web; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -101,7 +83,6 @@
 		D0FEAB791A36AB8F00F0B9C8 /* snowmatch */ = {
 			isa = PBXGroup;
 			children = (
-				D0FEABA01A36AC0500F0B9C8 /* liber */,
 				D0FEAB7E1A36AB8F00F0B9C8 /* AppDelegate.h */,
 				D0FEAB7F1A36AB8F00F0B9C8 /* AppDelegate.m */,
 				D0FEAB811A36AB8F00F0B9C8 /* ViewController.h */,
@@ -139,24 +120,6 @@
 				D0FEAB951A36AB8F00F0B9C8 /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		D0FEABA01A36AC0500F0B9C8 /* liber */ = {
-			isa = PBXGroup;
-			children = (
-				D0FEABA11A36AC0500F0B9C8 /* Liber.h */,
-				D0FEABA21A36AC0500F0B9C8 /* objc_categories.h */,
-				D0FEABA31A36AC0500F0B9C8 /* objc_categories.m */,
-				D0FEABA41A36AC0500F0B9C8 /* objc_classes.mm */,
-				D0FEABA51A36AC0500F0B9C8 /* objc_controller.mm */,
-				D0FEABA61A36AC0500F0B9C8 /* objc_headers.h */,
-				D0FEABA71A36AC0500F0B9C8 /* objc_node.mm */,
-				D0FEABA81A36AC0500F0B9C8 /* objc_wrappers.mm */,
-				D0FEABA91A36AC0500F0B9C8 /* README.md */,
-				D0FEABAA1A36AC0500F0B9C8 /* style.mm */,
-				D0FEABAB1A36AC0500F0B9C8 /* types.h */,
-			);
-			path = liber;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,15 +224,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0FEAB831A36AB8F00F0B9C8 /* ViewController.m in Sources */,
-				D0FEABB21A36AC0500F0B9C8 /* style.mm in Sources */,
-				D0FEABB01A36AC0500F0B9C8 /* objc_wrappers.mm in Sources */,
-				D0FEABAF1A36AC0500F0B9C8 /* objc_node.mm in Sources */,
-				D0FEABAD1A36AC0500F0B9C8 /* objc_classes.mm in Sources */,
 				D0FEAB801A36AB8F00F0B9C8 /* AppDelegate.m in Sources */,
 				D0FEAB7D1A36AB8F00F0B9C8 /* main.m in Sources */,
-				D0FEABB11A36AC0500F0B9C8 /* README.md in Sources */,
-				D0FEABAC1A36AC0500F0B9C8 /* objc_categories.m in Sources */,
-				D0FEABAE1A36AC0500F0B9C8 /* objc_controller.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +416,7 @@
 				D0FEAB9C1A36AB8F00F0B9C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0FEAB9D1A36AB8F00F0B9C8 /* Build configuration list for PBXNativeTarget "snowmatchTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +425,7 @@
 				D0FEAB9F1A36AB8F00F0B9C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
